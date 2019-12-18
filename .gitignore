@@ -1,0 +1,6 @@
+.DS_Store
+builders/*.md
+builders/*.json
+builders/*.yml
+campaigns/*
+node_modules

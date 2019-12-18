@@ -1,0 +1,24 @@
+{
+  "name": "iron-and-salt",
+  "version": "1.0.0",
+  "description": "Weave is a 21st century storytelling platform for everyone. With just two decks of cards and a handful of dice, you and your friends can create adventures in any genre, from sci-fi to high school comedy. When combined with the free companion app, Weave provides all the power you'll need to discover new worlds, imagine amazing characters, and save your stories online in minutes.",
+  "main": "index.js",
+  "dependencies": {
+    "js-yaml": "^3.13.1",
+    "markdown-it": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joedono/Iron-and-Salt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joedono/Iron-and-Salt/issues"
+  },
+  "homepage": "https://github.com/joedono/Iron-and-Salt#readme"
+}
