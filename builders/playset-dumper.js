@@ -37,6 +37,7 @@ function parseCard(card) {
   var elementTitle = "";
   var bulletList = "";
   var qualityId = 1;
+  var importElement = true;
 
   for(var i = 0; i < result.length; i++) {
     switch(result[i].type) {
@@ -66,36 +67,57 @@ function parseCard(card) {
       case "inline":
         switch (mode) {
           case "element":
-            elementTitle = result[i].content;
-            cardData[elementTitle] = [];
+            if (result[i].content == "Backstories" || result[i].content == "Talents" || result[i].content == "Flaws" || result[i].content == "Signature Move" || result[i].content == "Inventory") {
+              importElement = true;
+              elementTitle = result[i].content;
+              cardData[elementTitle] = [];
+            } else {
+              importElement = false;
+            }
+
             mode = "";
             break;
           case "quality":
-            quality = {};
-            cardData[elementTitle].push(quality);
-            quality.id = qualityId;
-            quality.title = result[i].content;
-            quality.description = "";
-            quality.subQualities = [];
-            qualityId++;
-            mode = "qualityDescription";
+            if (importElement) {
+              quality = {};
+              cardData[elementTitle].push(quality);
+              quality.id = qualityId;
+              quality.title = result[i].content;
+              quality.description = "";
+              quality.subQualities = [];
+              qualityId++;
+              mode = "qualityDescription";
+            }
+
             break;
           case "qualityDescription":
-            quality.description = result[i].content;
-            mode = "";
+            if (importElement) {
+              quality.description = result[i].content;
+              mode = "";
+            }
+
             break;
           case "subquality":
-            subQuality = {};
-            quality.subQualities.push(subQuality);
-            subQuality.title = result[i].content;
-            mode = "subqualityDescription";
+            if (importElement) {
+              subQuality = {};
+              quality.subQualities.push(subQuality);
+              subQuality.title = result[i].content;
+              mode = "subqualityDescription";
+            }
+
             break;
           case "subqualityDescription":
-            subQuality.description = result[i].content;
-            mode = "";
+            if (importElement) {
+              subQuality.description = result[i].content;
+              mode = "";
+            }
+
             break;
           case "bulletList":
-            bulletList += " " + result[i].content;
+            if (importElement) {
+              bulletList += " " + result[i].content;
+            }
+
             break;
         }
       break;
