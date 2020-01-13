@@ -37,7 +37,7 @@ Under each quality, there can be different types of traits:
 - Range - The range of effect of this quality. Applies to  Applies to Talents, Signature Moves, and Items
 
 ## How do I Start?
-First, download the set! You can do that by clicking the big green button in the upper-right of this page that says "Clone or download" and clicking on "Download ZIP". Then you get to writing! Personally, I'd recommend you get familiar with Git, create an account on Github.com, and either fork this repository or copy it into your own. If those words didn't mean anything to you, you can either ignore them and write with your favorite text editor or learn more at [GitHub Guides](https://guides.github.com/).
+First, download the set! You can do that by clicking the big button in the upper-right of this page that says `Clone or download` and clicking on `Download ZIP`. Then you get to writing! Personally, I'd recommend you get familiar with Git, create an account on Github.com, and click the `Use this template` button instead. If those words didn't mean anything to you, you can either ignore them and write with your favorite text editor or learn more at [GitHub Guides](https://guides.github.com/).
 
 After that, you should take a look at these files to get an idea how to use the templates.
 - index.md
