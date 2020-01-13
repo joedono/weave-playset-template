@@ -42,18 +42,20 @@ First, download the set! You can do that by clicking the big green button in the
 After that, you should take a look at these files to get an idea how to use the templates.
 - index.md
 - glossary.md
-- notes/progress.csv
+- notes/outline.csv
 - cards/Dawn/card.md
 - cards/Dawn/boss.md
 - cards/Dawn/Enemies/Enemy1.md
 - cards/Dawn/Enemies/Enemy2.md
+- cards/Dawn/NPCs/NPC1.md
+- cards/Dawn/NPCs/NPC2.md
 
 Additionally if you are looking for some great editors to use that really take advantage of markdown, here are some that we suggest:
 - [Atom](https://atom.io) \(free, universal. Lord Joe really likes this one\)
 - [Visual Studio Code](https://code.visualstudio.com) \(free, universal\)
 - [iA Writer](http://iawriter.com) \(paid, universal)\
 
-Personally, I recommend starting by filling in the `notes/progress.csv` file with as many ideas as you have for qualities in your set, then copying those ideas into the card files and fleshing them out. The `notes/progress.csv` file will help you keep your total progress all in one place.
+Personally, I recommend starting by filling in the `notes/outline.csv` file with as many ideas as you have for qualities in your set, then copying those ideas into the card files and fleshing them out. The `notes/outline.csv` file will help you keep your total progress all in one place. You can fill it in with whatever you like, but I prefer to keep it to just the quality titles and create additional files in the notes folder for details until I'm ready to move things into the actual cards.
 
 ## Using the Builder Scripts
 So you're most of the way through writing your playset and you want to try playtesting it. I've included a handful of scripts that could be useful for you in the `builders` folder:
