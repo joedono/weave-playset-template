@@ -140,17 +140,6 @@ Use on a character who has been removed from a scene due to their wounds. They c
 - MELEE
 
 ------------------------------
-# NPCs
-------------------------------
-## David, the EMT
-David is very good at his job. Some see him as a bit of a guardian angel. He's seen a lot of weird injuries and deaths on the job. They're causing him to have suspicions that there's more going on in the world than most other people think.
-
-------------------------------
-
-## Elizabeth, the Musician
-Elizabeth is the lead singer and guitarist of the local band. They're not famous yet, but Elizabeth's singing voice might be enough to carry them to the top.
-
-------------------------------
 # Plot Twists
 ------------------------------
 ## Recognized
