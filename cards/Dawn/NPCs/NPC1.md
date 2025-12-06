@@ -34,8 +34,14 @@ David is always driving his ambulance all over the state, helping out with all k
 ## Suspicious
 David has seen too many weird injuries in his time. He probably suspects something weird is going on.
 
+### Type
+Passive
+
 ------------------------------
 # Flaws
 ------------------------------
 ## Mortal
 David can be killed through mortal means.
+
+### Type
+Passive

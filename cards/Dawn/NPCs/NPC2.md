@@ -33,3 +33,6 @@ Elizabeth was born to sing.
 ------------------------------
 ## Mortal
 Elizabeth can be killed through mortal means.
+
+### Type
+Passive

@@ -35,6 +35,9 @@ You have consumed dragon blood, and have taken on some aspect of the dragon's po
 ### Mechanic
 Make a Stones challenge. On success, choose one of the following. Lasts 10 seconds: Dragon Flight - You can fly. Dragon Breath - You deal 2 Strikes of damage to all enemies in Melee or Short range. Dragon Armor - You take 1 fewer Strikes of damage from physical attacks.
 
+### Type
+Standard
+
 ### Enhancement
 The enhancement takes a great toll on your body. You suffer 4 Strikes of damage when the effect wears off.
 
@@ -51,6 +54,9 @@ You earned a favor from a phoenix. The blessing imparted all of the knowledge th
 ### Mechanic
 Make a Flames challenge. On success, you may ask one question to the phoenix's store of knowledge. The question may not pertain to current or future events (ie, you cannot ask "What is killing these people?" but you can ask "What could have caused these wounds?")
 
+### Type
+Standard
+
 ### Enhancement
 Accessing the knowledge is dangerous. You take 5 Strikes of damage.
 
@@ -66,6 +72,9 @@ Due to a curse (or maybe a blessing), your blood looks silver and metallic and h
 ### Mechanic
 Your fists count as silver weapons to monsters that are vulnerable to silver. You can use your blood to coat weapons and give them the properties of silver.
 
+### Type
+Passive
+
 ### Enhancement
 If you cut yourself to gain access to your blood, make a Stones challenge to avoid cutting too deep. On a failure, you succeed in coating the weapon, but you cannot act for 30 seconds as you recover from the blood loss.
 
@@ -73,6 +82,9 @@ If you cut yourself to gain access to your blood, make a Stones challenge to avo
 
 ## Wyvern Familiar
 You have a magical bond with a small dragon-like creature. It can fly, you can share its senses, and it will follow your orders. If it's in danger, it can breath fire in very small blasts and has sharp claws and teeth.
+
+### Type
+Passive
 
 ------------------------------
 # Flaws
@@ -83,6 +95,9 @@ Whether you're lying or telling the truth, there's something about your phrasing
 ### Mechanic
 Lose 1 die on all Brooks challenges.
 
+### Type
+Passive
+
 ------------------------------
 
 ## Ooo, Shiny!!
@@ -90,6 +105,9 @@ You are very easily distracted by shiny objects or the promise of treasure. You 
 
 ### Storyteller
 At your discretion, have this player make a Gales challenge. On failure, the character sees something shiny and is distracted for a turn.
+
+### Type
+Passive
 
 ------------------------------
 
@@ -99,6 +117,9 @@ You have nightmares about chaos and darkness, about creatures that ruled the wor
 ### Storyteller
 At your discretion, have this player make a Brooks challenge. On failure, the player is driven insane and behaves unpredictably for the remainder of the scene.
 
+### Type
+Passive
+
 ------------------------------
 
 ## Claustrophobic
@@ -106,6 +127,9 @@ You are deathly afraid of confined spaces and being trapped.
 
 ### Mechanic
 You must make a Brooks challenge before entering a small space or becoming trapped. On a failure, you are too scared to enter.
+
+### Type
+Passive
 
 ------------------------------
 # Signature Move
@@ -115,6 +139,9 @@ You can shift form and take on some aspects of a dragon.
 
 ### Mechanic
 Choose 1 of the following enhancements to take on for the remainder of the scene: Dragon Flight - You can fly. Dragon Breath - You deal 3 Strikes of damage to all enemies in Melee or Short range. Dragon Armor - You take 2 fewer Strikes of damage from physical attacks.
+
+### Type
+Standard
 
 ------------------------------
 # Inventory

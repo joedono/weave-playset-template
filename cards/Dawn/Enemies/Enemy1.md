@@ -36,6 +36,9 @@ Fairies possess control over the appearance of their immediate surroundings, inc
 ### Mechanic
 Make a Brooks challenge. On success, the players are fooled by an illusory environment.
 
+### Type
+Standard
+
 ------------------------------
 # Flaws
 ------------------------------
@@ -45,7 +48,13 @@ Fairies can be killed with iron or silver weapons.
 ### Mechanic
 If the killing blow involves earthly metal or silver, the Faerie dies. If not, the Faerie falls unconscious or attempts to escape.
 
+### Type
+Passive
+
 ------------------------------
 
 ## Obsessively Compulsive
 If a Faerie encounters a spilled pile of something, such as sand, salt, or jelly beans, they must stop what they are doing and count every grain.
+
+### Type
+Passive

@@ -39,6 +39,9 @@ Contrary to popular belief, Dragons do not actually breathe fire. They breathe a
 ### Mechanic
 Make a Flames challenge. On success, deal 5 Strikes of damage to all creatures in range.
 
+### Type
+Standard
+
 ### Enhancement
 The Dragon pours more of its energy into the blast. Deals an additional 5 Strikes of damage to all creatures in range, but the Dragon is exhausted and loses its next turn of combat.
 
@@ -56,6 +59,9 @@ The Dragon pours more of its energy into the blast. Deals an additional 5 Strike
 ## Flight
 Of course Dragons can fly.
 
+### Type
+Passive
+
 ------------------------------
 
 ## Human Appearance
@@ -63,6 +69,9 @@ Dragons are also able to take on human form to seek out potential victims.
 
 ### Mechanic
 The only way to tell a Dragon from a human is to cut them. A Dragon's blood is purple and you can see scales through the cuts in their skin.
+
+### Type
+Passive
 
 ------------------------------
 # Flaws
@@ -73,6 +82,9 @@ Dragons can only be killed by ancient and famous weapons, such as Excalibur or t
 ### Mechanic
 If the killing blow involves an ancient legendary weapon, the Dragon dies. If not, the Dragon falls unconscious or attempts to escape.
 
+### Type
+Passive
+
 ------------------------------
 
 ## Treasure Sickness
@@ -80,3 +92,6 @@ Dragons often do not care about the affairs of "lesser creatures" such as mortal
 
 ### Mechanic
 Dragons are very open to bribery with precious metals.
+
+### Type
+Passive

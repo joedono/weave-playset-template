@@ -42,6 +42,9 @@ A good set of teeth is always dangerous.
 ### Mechanic
 Make a Stones challenge. On success, deal 3 Strikes of damage.
 
+### Type
+Standard
+
 ### Enhancement
 Rip and Tear!! The Wyvern twists and jerks and deals an additional 2 Strikes of damage to its target.
 
@@ -58,3 +61,6 @@ Rip and Tear!! The Wyvern twists and jerks and deals an additional 2 Strikes of 
 ------------------------------
 ## Mortal
 Wyverns can be killed through mortal means.
+
+### Type
+Passive
