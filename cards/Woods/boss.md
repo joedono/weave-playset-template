@@ -42,21 +42,7 @@ TODO
 ### Enhancement
 TODO
 
-### Trigger
-TODO
-
-### Range
-TODO
-
-------------------------------
-
-## TODO
-TODO
-
-### Mechanic
-TODO
-
-### Enhancement
+### Type
 TODO
 
 ### Trigger
@@ -74,6 +60,29 @@ TODO
 TODO
 
 ### Enhancement
+TODO
+
+### Type
+TODO
+
+### Trigger
+TODO
+
+### Range
+TODO
+
+------------------------------
+
+## TODO
+TODO
+
+### Mechanic
+TODO
+
+### Enhancement
+TODO
+
+### Type
 TODO
 
 ### Trigger

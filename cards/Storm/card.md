@@ -38,24 +38,7 @@ TODO
 ### Storyteller
 TODO
 
-### Enhancement
-TODO
-
-### Trigger
-TODO
-
-### Range
-TODO
-
-------------------------------
-
-## TODO
-TODO
-
-### Mechanic
-TODO
-
-### Storyteller
+### Type
 TODO
 
 ### Enhancement
@@ -78,6 +61,9 @@ TODO
 ### Storyteller
 TODO
 
+### Type
+TODO
+
 ### Enhancement
 TODO
 
@@ -96,6 +82,32 @@ TODO
 TODO
 
 ### Storyteller
+TODO
+
+### Type
+TODO
+
+### Enhancement
+TODO
+
+### Trigger
+TODO
+
+### Range
+TODO
+
+------------------------------
+
+## TODO
+TODO
+
+### Mechanic
+TODO
+
+### Storyteller
+TODO
+
+### Type
 TODO
 
 ### Enhancement
@@ -119,24 +131,7 @@ TODO
 ### Storyteller
 TODO
 
-### Enhancement
-TODO
-
-### Trigger
-TODO
-
-### Range
-TODO
-
-------------------------------
-
-## TODO
-TODO
-
-### Mechanic
-TODO
-
-### Storyteller
+### Type
 TODO
 
 ### Enhancement
@@ -159,6 +154,9 @@ TODO
 ### Storyteller
 TODO
 
+### Type
+TODO
+
 ### Enhancement
 TODO
 
@@ -177,6 +175,32 @@ TODO
 TODO
 
 ### Storyteller
+TODO
+
+### Type
+TODO
+
+### Enhancement
+TODO
+
+### Trigger
+TODO
+
+### Range
+TODO
+
+------------------------------
+
+## TODO
+TODO
+
+### Mechanic
+TODO
+
+### Storyteller
+TODO
+
+### Type
 TODO
 
 ### Enhancement
@@ -200,6 +224,9 @@ TODO
 ### Storyteller
 TODO
 
+### Type
+TODO
+
 ### Enhancement
 TODO
 
@@ -221,6 +248,9 @@ TODO
 ### Storyteller
 TODO
 
+### Type
+TODO
+
 ### Enhancement
 TODO
 
@@ -239,6 +269,9 @@ TODO
 TODO
 
 ### Storyteller
+TODO
+
+### Type
 TODO
 
 ### Enhancement

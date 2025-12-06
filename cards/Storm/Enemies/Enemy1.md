@@ -36,6 +36,9 @@ TODO
 ### Mechanic
 TODO
 
+### Type
+TODO
+
 ### Enhancement
 TODO
 
@@ -51,6 +54,9 @@ TODO
 TODO
 
 ### Mechanic
+TODO
+
+### Type
 TODO
 
 ### Enhancement
@@ -69,6 +75,9 @@ TODO
 TODO
 
 ### Mechanic
+TODO
+
+### Type
 TODO
 
 ### Enhancement
