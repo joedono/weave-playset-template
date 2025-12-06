@@ -32,6 +32,7 @@ Under each quality, there can be different types of traits:
 - Description
 - Suits - The suit bonus the player, enemy, or boss gets from this quality. Applies to Backstories
 - Mechanic - The in-game effect of using this quality. Applies to Talents, Flaws, Signature Moves, and Items
+- Type - Standard, Passive, or Lucky
 - Enhancement - A secondary possible in-game effect of using this quality.  Applies to Talents, Flaws, Signature Moves, and Items
 - Trigger - The list of suits or other conditions that will trigger the Enhancement for this quality.  Applies to Talents, Flaws, Signature Moves, and Items
 - Range - The range of effect of this quality. Applies to  Applies to Talents, Signature Moves, and Items
